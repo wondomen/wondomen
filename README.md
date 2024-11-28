@@ -48,17 +48,11 @@ I am a software engineering student living in Finland, a highly passionate devel
 </div> <br/>
 
 ## Certifications
-<div align="center">
-🏆 Ethical Hacker
-    Cisco, 2024
 
-🏆 Networking Essentials
-    Cisco, 2023
+- 🏆 **[Ethical Hacker](https://www.credly.com/badges/6371db72-5f72-4822-b0cb-4786869bdb4b/linked_in_profile)** – Cisco, 2024  
+- 🏆 **[Networking Essentials](https://www.credly.com/badges/21389fed-457e-42f0-86a6-e1dd0e68d133)** – Cisco, 2023  
+- 🏆 **[AWS Certification](https://www.credly.com/badges/9ff005b7-e8fe-40de-b9e3-b363b5fbdb8d)** – Amazon Web Services Training and Certification, 2023
 
-🏆 AWS Certification
-    Amazon Web Services Training and Certification, 2023
-
-</div>
 
 ## Connect with me  
 <div align="center">
