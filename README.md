@@ -66,5 +66,3 @@ I am a software engineering student living in Finland, a highly passionate devel
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
