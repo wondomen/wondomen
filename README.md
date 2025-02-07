@@ -16,7 +16,7 @@ I am a software engineering student living in Finland, a highly passionate devel
   
 
 -   💻📲 Interested in Web Applications and Mobile Application Development
--  🔗 [Portfolio](https://resilient-caramel-013e93.netlify.app/))
+-  🔗 [Check my Portfolio](https://resilient-caramel-013e93.netlify.app/)
 
   
 
