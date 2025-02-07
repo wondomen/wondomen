@@ -15,7 +15,9 @@ I am a software engineering student living in Finland, a highly passionate devel
 - 🖥️ I am currently diving into Advanced Mobile Application Development with Swift and working on an Android Mobile Application Development project using Kotlin.  
   
 
--   💻📲 Interested in Web Applications and Mobile Application Development  
+-   💻📲 Interested in Web Applications and Mobile Application Development
+-  🔗 [Portfolio](https://resilient-caramel-013e93.netlify.app/))
+
   
 
 <br/>  
